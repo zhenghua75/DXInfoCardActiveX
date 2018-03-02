@@ -1,0 +1,96 @@
+[Root]
+Most Recent Package=DXInfoCardActiveX
+
+
+[Package|DXInfoCardActiveX|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\包 (5)
+Controls Design-Time Support=No
+
+[Package|DXInfoCardActiveX|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DXInfoCardActiveX|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DXInfoCardActiveX|Files Found]
+
+[Package|DXInfoCardActiveX|Files Released]
+
+[Package|DXInfoCardActiveX|Missing Dependency Information]
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Card.ActvieX.ocx=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Ekey.ActiveX.ocx=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\DXInfo.Ekey\NT77.dll=
+
+[Package|DXInfoCardActiveX|Out-of-Date Dependency Information]
+
+[Package|DXInfoCardActiveX|Files Added]
+C:\Windows\system32\MsStkPrp.dll=这个文件用于用户控件的设计时的支持。
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Card.dll=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Ekey.dll=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Card.ActvieX.ocx=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Ekey.ActiveX.ocx=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\DXInfo.Card\mwrf32.dll=
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\DXInfo.Ekey\NT77.dll=
+
+[Package|DXInfoCardActiveX|Files Removed]
+c:\windows\system32\msstkprp.dll=
+c:\windows\system32\msprpchs.dll=
+e:\ynhn20110408\华能物资运输监控系统\程序\dxinfocardactivex\dxinfocardactivex.ocx=
+c:\windows\system32\msvbvm60.dll=
+c:\windows\system32\oleaut32.dll=
+c:\windows\system32\olepro32.dll=
+c:\windows\system32\asycfilt.dll=
+c:\windows\system32\stdole2.tlb=
+c:\program files (x86)\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\windows\system32\vb6chs.dll=
+
+[Package|DXInfoCardActiveX|Files In Project]
+E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\DXInfoCardActiveX.ocx=No
+C:\Windows\System32\msvbvm60.dll=No
+C:\Windows\System32\oleaut32.dll=No
+C:\Windows\System32\olepro32.dll=No
+C:\Windows\System32\asycfilt.dll=No
+C:\Windows\System32\stdole2.tlb=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\Windows\System32\VB6CHS.DLL=No
+C:\Windows\System32\MSSTKPRP.DLL=No
+C:\Windows\System32\MSPRPCHS.DLL=No
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Card.dll=Yes
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Ekey.dll=Yes
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Card.ActvieX.ocx=Yes
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\Release\DXInfo.Ekey.ActiveX.ocx=Yes
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\DXInfo.Card\mwrf32.dll=Yes
+E:\ynhn20110408\华能物资运输监控系统\程序\ynhnTransportManage\DXInfo.Ekey\NT77.dll=Yes
+
+[Package|DXInfoCardActiveX|Configure Registry Files]
+Applicable=No
+
+[Package|DXInfoCardActiveX|Configure Remote Servers]
+Applicable=No
+
+[Package|DXInfoCardActiveX|Install Locations]
+
+[Package|DXInfoCardActiveX|Configure Shared Files]
+Applicable=
+
+[Package|DXInfoCardActiveX|ComponentInfo]
+DXInfo.Card.dll=thiscab
+DXInfo.Ekey.dll=thiscab
+DXInfo.Card.ActvieX.ocx=thiscab
+DXInfo.Ekey.ActiveX.ocx=thiscab
+mwrf32.dll=thiscab
+NT77.dll=thiscab
+
+[Package|DXInfoCardActiveX|ObjectInfo]
+UserControl1=false;false
+
+[Package|DXInfoCardActiveX|Package]
+PackageFolder=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\包 (5)
+ProjectFolder=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX
+ServerSideCab=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\包 (5)\DXInfoCardActiveX.CAB
+File1=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\包 (5)\DXInfoCardActiveX.CAB
+File2=E:\ynhn20110408\华能物资运输监控系统\程序\DXInfoCardActiveX\包 (5)\DXInfoCardActiveX.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz

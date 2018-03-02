@@ -1,0 +1,25 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Thu Jan 31 21:56:35 2013           **
+;**                                                                **
+;** MakeCAB Version: 6.1.7600.16385                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,DXInfoCardActiveX.CAB
+[file list]
+1,1,DXInfoCardActiveX.INF,1922
+1,1,mwrf32.dll,94208
+1,1,NT77.dll,65536
+1,1,msvcp100.dll,421200
+1,1,msvcr100.dll,773968
+1,1,DXInfo.ActiveX.dll,251416
+1,1,Card.cer,539
+1,1,DXInfo.Card.ini,278
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Thu Jan 31 21:56:35 2013           **
+;**                                                                **
+;*** END ************************************************************
